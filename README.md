@@ -11,6 +11,7 @@ I build front-end interfaces and reporting systems for enterprise applications, 
 - 📊 Data-driven analysis of real-world driving behavior
 - 
 **Featured work:**
+  
    [*A Review on the Convergence of AI and Blockchain*](https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025) — peer-reviewed, DeBlock International Conference 2025
   
    [Vehicle Driving Behavior Analysis](https://github.com/setayeshtaherzadeh/vehicle-driving-behavior-analysis) — statistical analysis of ~789K real OBD-II telemetry records, with an interactive React dashboard
