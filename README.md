@@ -2,14 +2,16 @@
  
 Software Engineer interested in **Human-Computer Interaction, Intelligent Transportation Systems, and Human-Centered AI**.    
  
-I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into real-time, control-driven systems — particularly vehicle data analytics and driver-assistance technologies.
+I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into intelligent transportation systems through vehicle data analytics, driver-assistance technologies, and emerging research in Human-Computer Interaction (HCI).
+
  
 **Currently exploring:**
 - Advanced Driver Assistance Systems (ADAS) & vehicle telemetry analysis
-- ⚙️ Electronic Control Units (ECU) & automotive control systems
-- Electric Vehicle (EV) architecture & energy systems
+- Human Factors & Data-Driven Interaction Design
+- Human-Computer Interaction (HCI) for Intelligent Vehicles
 - 📊 Data-driven analysis of real-world driving behavior
-  
+
+
 **Featured work:**
   
    [*A Review on the Convergence of AI and Blockchain*](https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025) — peer-reviewed, DeBlock International Conference 2025
