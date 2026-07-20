@@ -1,6 +1,6 @@
 ### Hi, I'm Setayesh 
  
-React.js Developer transitioning toward **Automotive Software, ADAS & Intelligent Systems**.
+Software Engineer interested in **Human-Computer Interaction, Intelligent Transportation Systems, and Human-Centered AI**.    
  
 I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into real-time, control-driven systems — particularly vehicle data analytics and driver-assistance technologies.
  
